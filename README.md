@@ -1,4 +1,4 @@
-Author: {FirstName LastName} [{UA Email}]  
+Author: Amir [{UA Email}]  
 Course: Grad 533
 Date: [Month]. [Day], 2025
 
